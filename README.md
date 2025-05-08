@@ -6,11 +6,9 @@ Actively building cool things and learning every day!
 ---
 
 ### 🚀 About Me
-
 - 🔭 I’m currently working on an AI companion mobile game.
 - 👯 I’m open to collaboration.
 - ⚡ Fun fact: I love coding with great music and building pixel-perfect UI.
-
 - 📫 How to reach me: X @saoirse7clerks
 
 ---
