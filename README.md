@@ -7,18 +7,18 @@ Actively building cool things and learning every day!
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on a AI partner mobile game
-- 🌱 Recently learned: **React Native**
-- 👯 I’m open to collaboration and hiring!
+- 🔭 I’m currently working on an AI companion mobile game.
+- 👯 I’m open to collaboration.
+- ⚡ Fun fact: I love coding with great music and building pixel-perfect UI.
+
 - 📫 How to reach me: X @saoirse7clerks
-- ⚡ Fun fact: I love coding with coffee ☕ and building pixel-perfect UI.
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=g4rkk&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g4rkk&layout=compact&theme=tokyonight)
+### 🎮 Fun Facts
+- 🐈 Sharing my life with my cat, Goma.
+- 🧠 Love cracking programming puzzles and strategizing over board games.
+- 🎬 Obsessed with movies—especially the ones with a touch of dark humor.
 
 ---
 
@@ -26,6 +26,7 @@ Actively building cool things and learning every day!
 
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Ruby" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" />
 <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
