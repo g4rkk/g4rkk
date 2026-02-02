@@ -1,8 +1,10 @@
 ## 👋 Hi there, I'm Yuqing!
 
+[![Portfolio](https://img.shields.io/badge/-Explore%20My%20Work-8E44AD?style=flat-square&logo=appveyor&logoColor=white)](https://g4rkk.github.io/mywebsite/)
+
 I’m a fullstack developer 💻   
 Actively building cool things and learning every day!
-[![Portfolio](https://img.shields.io/badge/-Explore%20My%20Work-8E44AD?style=flat-square&logo=appveyor&logoColor=white)](https://g4rkk.github.io/mywebsite/)
+
 
 ---
 
