@@ -2,7 +2,7 @@
 
 I’m a fullstack developer 💻   
 Actively building cool things and learning every day!
-Check out my website to learn more about my work: [(https://g4rkk.github.io/mywebsite/)]
+[![Portfolio](https://img.shields.io/badge/-Explore%20My%20Work-8E44AD?style=flat-square&logo=appveyor&logoColor=white)](https://g4rkk.github.io/mywebsite/)
 
 ---
 
