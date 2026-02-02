@@ -2,6 +2,7 @@
 
 I’m a fullstack developer 💻   
 Actively building cool things and learning every day!
+Check out my website to learn more about my work: [(https://g4rkk.github.io/mywebsite/)]
 
 ---
 
